@@ -8,12 +8,6 @@ Esta es una aplicación web básica que utiliza la API de Jikan (https://jikan.m
 - **Visualización de Información:** Se muestra información básica sobre cada anime, incluyendo puntaje y número de episodios.
 - **Interfaz Simple:** La aplicación tiene una interfaz de usuario minimalista y fácil de usar.
 
-## Uso
-
-1. **Instalación de Dependencias:** Ejecute `npm install` para instalar todas las dependencias necesarias.
-2. **Inicio de la Aplicación:** Ejecute `npm start` para iniciar la aplicación.
-3. **Uso:** Abra su navegador web y navegue a la URL proporcionada por la aplicación para comenzar a usarla.
-
 ## Tecnologías Utilizadas
 
 - **React:** El frontend de la aplicación está construido utilizando React.js.
